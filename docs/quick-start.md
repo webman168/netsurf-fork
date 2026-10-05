@@ -22,7 +22,7 @@ Native build
 Grab a temporary env.sh
 -----------------------
 
-     $ wget https://git.netsurf-browser.org/netsurf.git/plain/docs/env.sh
+     $ wget https://raw.githubusercontent.com/webman168/netsurf-fork/refs/heads/master/docs/env.sh
      $ unset HOST
      $ source env.sh
 
