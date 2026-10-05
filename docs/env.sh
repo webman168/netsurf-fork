@@ -322,7 +322,7 @@ export NETSURF_GTK_MAJOR
 MAKE=make
 
 # NetSurf GIT repositories
-NS_GIT="${REPO_BASE_URI:-git://github.com/webman168/netsurf-fork/}"
+NS_GIT="${REPO_BASE_URI:-git://git.netsurf-browser.org}"
 
 # Buildsystem: everything depends on this
 NS_BUILDSYSTEM="buildsystem"
